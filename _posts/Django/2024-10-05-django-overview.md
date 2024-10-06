@@ -2,7 +2,7 @@
 title: 1. Django 시작하기
 author: jdi39
 date: 2024-10-05
-categories: [Blogging, Django]
+categories: [Django]
 tags: [Django]
 toc: true
 description: Django 개요
@@ -17,6 +17,11 @@ description: Django 개요
     - 장고 앱이라는 단위로 도메인을, URL, 모델, 직렬화(serializers), 뷰(views)로 계층을 분리
         - cf. 마이크로 프레임워크는 도메인과 계층 분리에 대해 자유로움 → 도메인과 계층 분리에 대해 개발자가 책임
   - 비즈니스 로직에 대응하는 API 개수가 많을 때 & 다양한 종류의 인프라(RDB, MessageQueue 등)를 사용해야할 때 적절
+
+### 장고 MTV(Model, Template, View) 아키텍처
+- MTV는 장고의 모듈과 매핑
+- FE(템플릿+자바스크립트) + BE(모델, 뷰)
+  - FE와 BE가 나눠서 분업하는 경우, 템플릿이 하는 역할은 자바스크립트(FE)가 대체
 
 ### 장고 설계 철학([Django Design Philosophies](https://docs.djangoproject.com/en/5.1/misc/design-philosophies/))
 
