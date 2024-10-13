@@ -2,7 +2,7 @@
 title: 1. Django 시작하기
 author: jdi39
 date: 2024-10-05
-categories: [Blogging, Django]
+categories: [Django]
 tags: [Django]
 toc: true
 description: Django 개요
