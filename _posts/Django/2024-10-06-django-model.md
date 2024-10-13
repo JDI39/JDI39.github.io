@@ -2,7 +2,7 @@
 title: 2. 장고의 모델
 author: jdi39
 date: 2024-10-05
-categories: [Blogging, Django]
+categories: [Django]
 tags: [Django]
 toc: true
 description: 장고 모델
