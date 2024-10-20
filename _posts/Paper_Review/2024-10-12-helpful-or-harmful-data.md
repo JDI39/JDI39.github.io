@@ -1,5 +1,5 @@
 ---
-title: \[논문리뷰\] Helpful or Harmful Data? Fine-tuning-free Shapley Attribution for Explaining Language Model Predictions
+title: [논문리뷰] Helpful or Harmful Data? Fine-tuning-free Shapley Attribution for Explaining Language Model Predictions
 author: jdi39
 date: 2024-10-12
 categories: [PaperReview]
